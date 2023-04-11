@@ -6,21 +6,21 @@ body {
   
 }
 hr{
-    background-color: white;
+    background-color: aliceblue;
     border-color: grey;    
     border-width: 10px;
     width: 8%;
     border-style: dotted none none;
 }
 h1 { 
-    font-size: ;
+    font-size: larger;
     color: #11999E;
 }
 h3 { 
     color: #11999E;
     font-style: italic;
     
-    font-size: larger;
+font-size: larger;
     
 }
 
