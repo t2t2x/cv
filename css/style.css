@@ -11,8 +11,12 @@ hr{
     border-style: dotted none none;
 }
 h1 { 
+    
     color:#577D86;
 
+}
+h2 {
+    color: #11999E;
 }
 h3 { 
     color: #11999E;
